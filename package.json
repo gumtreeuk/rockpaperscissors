@@ -17,7 +17,7 @@
     "test:coverage": "jest --coverage"
   },
   "devDependencies": {
-    "@babel/core": "7.6.4",
+    "@babel/core": "7.14.8",
     "@babel/preset-env": "7.6.3",
     "babel-eslint": "^10.0.3",
     "babel-loader": "^8.0.5",
